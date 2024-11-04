@@ -1,0 +1,11 @@
+﻿dod.obj : error LNK2005: "void __cdecl nsDod::dod(void)" (?dod@nsDod@@YAXXZ) already defined in 9.1.obj
+sum.obj : error LNK2005: "void __cdecl nsSum::sum(void)" (?sum@nsSum@@YAXXZ) already defined in 9.1.obj
+var.obj : error LNK2005: "int nsVar::n" (?n@nsVar@@3HA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::x" (?x@nsVar@@3NA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::x_p" (?x_p@nsVar@@3NA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::x_k" (?x_k@nsVar@@3NA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::dx" (?dx@nsVar@@3NA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::e" (?e@nsVar@@3NA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::a" (?a@nsVar@@3NA) already defined in 9.1.obj
+var.obj : error LNK2005: "double nsVar::s" (?s@nsVar@@3NA) already defined in 9.1.obj
+C:\Users\USER\source\repos\9.1\x64\Debug\9.1.exe : fatal error LNK1169: one or more multiply defined symbols found
